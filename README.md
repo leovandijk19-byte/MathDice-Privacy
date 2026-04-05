@@ -1,0 +1,2 @@
+# MathDice-Privacy
+Privacy policy
